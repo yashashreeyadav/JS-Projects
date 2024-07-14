@@ -56,3 +56,8 @@ user2.email = "Yash"
 
 console.log(user);
 console.log(user2);
+
+
+console.log(x);
+var x=10;
+
